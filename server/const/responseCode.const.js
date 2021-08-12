@@ -1,0 +1,7 @@
+module.exports = {
+    BAD_REQUEST: 400,
+    ERROR_VALID: 4000,
+    WRONG_PASSWORD_EMAIL: 403,
+    SUCCESS: 200,
+    CREATED_OR_UPDATE: 201
+};
